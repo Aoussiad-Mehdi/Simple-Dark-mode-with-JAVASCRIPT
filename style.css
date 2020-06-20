@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-.circle1{
+.bar1{
     width: 200px;
     height: 20px;
     background: black;
@@ -11,7 +11,7 @@
     display: flex;
     align-items: center;
 }
-.circle2{
+.bar2{
     width: 88%;
     height: 18px;
     background: white;
