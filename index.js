@@ -6,7 +6,7 @@ function darkMode(){
     var button = document.querySelector('button');
   // styling .
     container.style.background = 'rgb(34, 33, 33)';
-    container.style.transition = '.5s ease';
+    container.style.transition = '.8s ease';
     text.style.color = 'white';
     button.style.cursor = 'pointer';
     button.style.background = 'crimson';

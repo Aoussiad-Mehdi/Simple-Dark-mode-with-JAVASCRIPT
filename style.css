@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.circle1{
+    width: 200px;
+    height: 20px;
+    background: black;
+    margin: 50px;
+    display: flex;
+    align-items: center;
+}
+.circle2{
+    width: 88%;
+    height: 18px;
+    background: white;
+    margin-left: .5%;
+    background: rgb(60, 228, 60);
+    animation: anime 1.6s;
+}
+@keyframes anime {
+    0%{
+        width: 1%;
+    }
+    100%{
+        width: 88%;
+    }
+}
